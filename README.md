@@ -1,5 +1,6 @@
 # motd_staywoke
-outputs a message of the day
+outputs a message of the day from my personal blog post "Stay Woke"
+(https://afhamuche.blogspot.com/2021/11/what-is-worth-of-punishment-if-it-does.html)
 
 shell script
 
